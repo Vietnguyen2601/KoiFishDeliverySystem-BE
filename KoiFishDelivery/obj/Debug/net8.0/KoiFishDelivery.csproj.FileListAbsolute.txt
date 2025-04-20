@@ -176,3 +176,4 @@ D:\FPT\KoiDel\KoiFishDelivery\KoiFishDelivery\obj\Debug\net8.0\KoiFishDelivery.p
 D:\FPT\KoiDel\KoiFishDelivery\KoiFishDelivery\obj\Debug\net8.0\KoiFishDelivery.genruntimeconfig.cache
 D:\FPT\KoiDel\KoiFishDelivery\KoiFishDelivery\obj\Debug\net8.0\ref\KoiFishDelivery.dll
 D:\FPT\KoiDel\KoiFishDelivery\KoiFishDelivery\obj\Debug\net8.0\KoiFishDelivery.sourcelink.json
+D:\FPT\KoiDel\KoiFishDelivery\KoiFishDelivery\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
