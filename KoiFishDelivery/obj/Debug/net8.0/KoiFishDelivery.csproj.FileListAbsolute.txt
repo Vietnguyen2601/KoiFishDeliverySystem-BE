@@ -175,3 +175,4 @@ D:\FPT\KoiDel\KoiFishDelivery\KoiFishDelivery\obj\Debug\net8.0\refint\KoiFishDel
 D:\FPT\KoiDel\KoiFishDelivery\KoiFishDelivery\obj\Debug\net8.0\KoiFishDelivery.pdb
 D:\FPT\KoiDel\KoiFishDelivery\KoiFishDelivery\obj\Debug\net8.0\KoiFishDelivery.genruntimeconfig.cache
 D:\FPT\KoiDel\KoiFishDelivery\KoiFishDelivery\obj\Debug\net8.0\ref\KoiFishDelivery.dll
+D:\FPT\KoiDel\KoiFishDelivery\KoiFishDelivery\obj\Debug\net8.0\KoiFishDelivery.sourcelink.json

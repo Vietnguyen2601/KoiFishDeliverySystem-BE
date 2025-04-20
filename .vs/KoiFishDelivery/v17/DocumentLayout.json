@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{B8FBF562-F12D-4F43-81D6-BB686E6F4CA6}|KoiFishDelivery\\KoiFishDelivery.csproj|solutionrelative:koifishdelivery\\koifishdelivery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B8FBF562-F12D-4F43-81D6-BB686E6F4CA6}|KoiFishDelivery\\KoiFishDelivery.csproj|d:\\fpt\\koidel\\koifishdelivery\\koifishdelivery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8FBF562-F12D-4F43-81D6-BB686E6F4CA6}|KoiFishDelivery\\KoiFishDelivery.csproj|solutionrelative:koifishdelivery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FBF562-F12D-4F43-81D6-BB686E6F4CA6}|KoiFishDelivery\\KoiFishDelivery.csproj|d:\\fpt\\koidel\\koifishdelivery\\koifishdelivery\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FBF562-F12D-4F43-81D6-BB686E6F4CA6}|KoiFishDelivery\\KoiFishDelivery.csproj|solutionrelative:koifishdelivery\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8FBF562-F12D-4F43-81D6-BB686E6F4CA6}|KoiFishDelivery\\KoiFishDelivery.csproj|d:\\fpt\\koidel\\koifishdelivery\\koifishdelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8FBF562-F12D-4F43-81D6-BB686E6F4CA6}|KoiFishDelivery\\KoiFishDelivery.csproj|solutionrelative:koifishdelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\FPT\\KoiDel\\KoiFishDelivery\\KoiFishDelivery\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "KoiFishDelivery\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\FPT\\KoiDel\\KoiFishDelivery\\KoiFishDelivery\\Controllers\\UserController.cs",
+              "RelativeToolTip": "KoiFishDelivery\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T14:56:54.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\KoiDel\\KoiFishDelivery\\KoiFishDelivery\\appsettings.json",
+              "RelativeDocumentMoniker": "KoiFishDelivery\\appsettings.json",
+              "ToolTip": "D:\\FPT\\KoiDel\\KoiFishDelivery\\KoiFishDelivery\\appsettings.json",
+              "RelativeToolTip": "KoiFishDelivery\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T14:56:17.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,14 +66,14 @@
               "RelativeDocumentMoniker": "KoiFishDelivery\\KoiFishDelivery.csproj",
               "ToolTip": "D:\\FPT\\KoiDel\\KoiFishDelivery\\KoiFishDelivery\\KoiFishDelivery.csproj",
               "RelativeToolTip": "KoiFishDelivery\\KoiFishDelivery.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-20T14:23:51.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FPT\\KoiDel\\KoiFishDelivery\\KoiFishDelivery\\Program.cs",
               "RelativeDocumentMoniker": "KoiFishDelivery\\Program.cs",
