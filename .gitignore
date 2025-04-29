@@ -1,0 +1,28 @@
+.NET Core
+bin/
+obj/
+*.csproj.user
+*.suo
+*.user
+*.sln.docstates
+
+Visual Studio
+.vscode/
+.vs/
+
+NuGet Packages
+*.nupkg
+packages/
+
+Ignore compiled files
+*.dll
+*.exe
+
+Ignore temporary files
+*.tmp
+*.bak
+
+Ignore environment-specific settings
+appsettings.Development.json
+
+Show in sidebar
